@@ -1,0 +1,20 @@
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure Folder.csprojResolveAssemblyReference.cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure_Folder.Properties.Resources.resources
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure Folder.csproj.GenerateResource.Cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure Folder.csproj.CoreCompileInputs.cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure_Folder.SecureFolderForm.resources
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\bin\Debug\Secure Folder.exe.config
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\bin\Debug\Secure Folder.exe
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\bin\Debug\Secure Folder.pdb
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure Folder.exe
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder\Secure Folder\obj\Debug\Secure Folder.pdb
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\bin\Debug\Secure Folder.exe.config
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\bin\Debug\Secure Folder.exe
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\bin\Debug\Secure Folder.pdb
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure Folder.csprojResolveAssemblyReference.cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure_Folder.SecureFolderForm.resources
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure_Folder.Properties.Resources.resources
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure Folder.csproj.GenerateResource.Cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure Folder.csproj.CoreCompileInputs.cache
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure Folder.exe
+D:\Jason\Documents\Workspaces\Visual Studio\Projects\C#\Secure Folder for Windows\Secure Folder\obj\Debug\Secure Folder.pdb
