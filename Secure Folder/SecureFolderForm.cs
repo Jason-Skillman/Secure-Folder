@@ -17,7 +17,7 @@ namespace Secure_Folder {
 		string pathTopLevel;
 		string pathFolder;
 
-		string password = "LOK";
+		string password = "password";
 
 		DirectoryInfo dirSecureFolder;
 
